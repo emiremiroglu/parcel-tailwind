@@ -238,8 +238,9 @@ img, video {
   font-weight: 700;
 }
 
-.underline {
-  text-decoration-line: underline;
+.text-blue-600 {
+  --tw-text-opacity: 1;
+  color: rgb(37 99 235 / var(--tw-text-opacity));
 }
 
 /*# sourceMappingURL=index.2cdaf7bc.css.map */
